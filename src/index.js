@@ -28,3 +28,4 @@ module.exports.descricao = "Jogo curto para aprender Libras com a câmera do cel
 // 2026-08-14T12:44:00Z manutencao
 // 2026-08-15T12:02:00Z manutencao
 // 2026-08-15T14:00:00Z manutencao
+// 2026-08-18T11:09:00Z manutencao
