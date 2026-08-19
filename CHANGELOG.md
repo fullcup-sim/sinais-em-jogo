@@ -30,3 +30,4 @@
 - 2026-08-15: manutencao
 - 2026-08-18: manutencao
 - 2026-08-18: manutencao
+- 2026-08-19: Correção de posição da mão
