@@ -48,3 +48,4 @@
 - 2026-09-03: manutencao
 - 2026-09-04: manutencao
 - 2026-09-07: Trilha de fases por tema
+- 2026-09-08: Trilha de fases por tema
