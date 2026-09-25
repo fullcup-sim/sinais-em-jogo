@@ -51,3 +51,4 @@ module.exports.descricao = "Jogo curto para aprender Libras com a câmera do cel
 // 2026-09-08T14:13:00Z Trilha de fases por tema
 // 2026-09-09T15:40:00Z Trilha de fases por tema
 // 2026-09-24T15:50:00Z Modo dupla com amigo
+// 2026-09-25T15:35:00Z Modo dupla com amigo
