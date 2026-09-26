@@ -52,3 +52,4 @@
 - 2026-09-09: Trilha de fases por tema
 - 2026-09-24: Modo dupla com amigo
 - 2026-09-25: Modo dupla com amigo
+- 2026-09-26: Modo dupla com amigo
